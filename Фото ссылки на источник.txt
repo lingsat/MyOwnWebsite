@@ -1,0 +1,28 @@
+—сылка на фото
+
+<a href="https://www.freepik.com/free-photos-vectors/background">Background photo created by freepik - www.freepik.com</a>
+<a href="https://www.freepik.com/free-photos-vectors/technology">Technology photo created by freepik - www.freepik.com</a>
+<a href="https://www.freepik.com/free-photos-vectors/people">People photo created by freepik - www.freepik.com</a>
+
+<a href="https://www.freepik.com/free-photos-vectors/business">Business vector created by freepik - www.freepik.com</a>
+
+‘оновый рисунок
+
+<a href="https://www.freepik.com/free-photos-vectors/background">Background photo created by freepik - www.freepik.com</a> PC wall gray
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by rawpixel.com - www.freepik.com</a> Brush
+
+Favicon
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/vitaly-gorbachev" title="Vitaly Gorbachev">Vitaly Gorbachev</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+About me
+
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by vectorpocket - www.freepik.com</a>
+
+Contact me
+<a href="https://www.freepik.com/free-photos-vectors/business">Business photo created by onlyyouqj - www.freepik.com</a>
+
+Icons
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
