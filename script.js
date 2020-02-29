@@ -20,7 +20,9 @@ $(document).ready(function() {
 	let main = $("#main"),
 		mainH = main.innerHeight(),
 		header = $("#header"),
-		scrollPos = $(window).scrollTop();
+		scrollPos = $(window).scrollTop(),
+		burgerMenuBtn = $("#burgerMenuBtn"),
+		headerMenu = $("#headerMenu");
 
 	checkScroll(scrollPos, mainH);
 
@@ -31,7 +33,7 @@ $(document).ready(function() {
 	});
 
 	function checkScroll(scrollPos, mainH) {
-		if( scrollPos > mainH - 100 ) {
+		if( scrollPos > mainH - 50 ) {
 			header.addClass("fixed");
 		} else {
 			header.removeClass("fixed");
@@ -44,9 +46,16 @@ $(document).ready(function() {
 		let elementId = $(this).data('scroll'),
 			elementOffset = $(elementId).offset().top;
 
+			headerMenu.removeClass("show");
+
 			$("html, body").animate({
-				scrollTop: elementOffset - 90
+				scrollTop: elementOffset - 48
 			}, 700);
+	});
+
+	burgerMenuBtn.on("click", function(event) {
+		event.preventDefault();
+		headerMenu.toggleClass("show");
 	});
 
 });
